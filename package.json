@@ -1,0 +1,24 @@
+{
+  "name": "tgbot-types",
+  "version": "1.0.0",
+  "description": "Types for the Telegram Bot API",
+  "main": "index.js",
+  "author": "rsaryev1997@gmail.com",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "repository": {
+    "url": "https://github.com/rsaryev/tgbot-types.git"
+  },
+  "issues": {
+    "url": "https://github.com/rsaryev/tgbot-types/issues"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "api",
+    "types"
+  ],
+  "files": [
+    "index.d.ts"
+  ]
+}
